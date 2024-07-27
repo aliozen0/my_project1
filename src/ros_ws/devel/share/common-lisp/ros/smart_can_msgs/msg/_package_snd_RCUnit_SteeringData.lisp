@@ -1,0 +1,10 @@
+(cl:in-package smart_can_msgs-msg)
+(cl:export '(RC_STEERING_RIGHTLIMIT-VAL
+          RC_STEERING_RIGHTLIMIT
+          RC_STEERING_LEFTLIMIT-VAL
+          RC_STEERING_LEFTLIMIT
+          RC_STEERINGPWM-VAL
+          RC_STEERINGPWM
+          RC_STEERINGDIRECTION-VAL
+          RC_STEERINGDIRECTION
+))

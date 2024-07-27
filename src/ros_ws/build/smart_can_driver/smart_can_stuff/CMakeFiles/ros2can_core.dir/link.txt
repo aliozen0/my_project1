@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libros2can_core.so -o /home/smart/Projects/ros_ws/devel/lib/libros2can_core.so CMakeFiles/ros2can_core.dir/src/ros2can.cpp.o 

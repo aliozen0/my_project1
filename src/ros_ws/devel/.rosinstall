@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/smart/Projects/ros_ws/devel/setup.sh

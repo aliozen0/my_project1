@@ -1,0 +1,2 @@
+set(smart_can_msgs_MESSAGE_FILES "msg/kinematic_messages.msg;msg/kinematic_settings.msg;msg/dis_messages.msg;msg/rc_unittoOmux.msg;msg/RC_THRT_DATA.msg;msg/AUTONOMOUS_BrakePedalControl.msg;msg/AUTONOMOUS_SteeringMot_Control.msg;msg/AUTONOMOUS_HB_MotorControl.msg;msg/FB_MotorDriver.msg;msg/FB_VehicleSpeed.msg;msg/FB_OMUX_to_AUTONOMOUS.msg;msg/snd_RCUnit_SteeringData.msg;msg/snd_RCUnit_BrakeData.msg;msg/snd_RCUnit_HandBrakeData.msg;msg/AutonomousHeardBit.msg;msg/FeedbackSteeringAngle.msg;msg/Feedback_SENSOR.msg")
+set(smart_can_msgs_SERVICE_FILES "")

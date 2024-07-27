@@ -1,0 +1,8 @@
+prefix=/home/smart/Projects/ros_ws/devel
+
+Name: can_msgs
+Description: Description of can_msgs
+Version: 0.8.5
+Cflags: -I/home/smart/Projects/ros_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs

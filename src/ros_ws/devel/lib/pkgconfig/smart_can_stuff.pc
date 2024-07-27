@@ -1,0 +1,8 @@
+prefix=/home/smart/Projects/ros_ws/devel
+
+Name: smart_can_stuff
+Description: Description of smart_can_stuff
+Version: 0.0.0
+Cflags: -I/home/smart/Projects/ros_ws/src/smart_can_driver/smart_can_stuff/include
+Libs: -L${prefix}/lib 
+Requires: can_msgs

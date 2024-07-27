@@ -1,0 +1,8 @@
+prefix=/home/smart/Projects/ros_ws/devel
+
+Name: smart_can_msgs
+Description: Description of smart_can_msgs
+Version: 0.0.0
+Cflags: -I/home/smart/Projects/ros_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

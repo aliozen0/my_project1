@@ -1,0 +1,8 @@
+prefix=/home/smart/Projects/ros_ws/install
+
+Name: huma_taxi
+Description: Description of huma_taxi
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lhuma_taxi
+Requires: roscpp rospy std_msgs message_runtime message_generation
